@@ -9,3 +9,8 @@
 >### 1. instalar cadastro_pessoas.sql
 
 >### 2. alterar configurações para a conexão  em config.php
+
+	define('HOST', '127.0.0.1');
+	define('USER', 'root');
+	define('SENHA', '');
+	define('BASE', 'cadastro');
